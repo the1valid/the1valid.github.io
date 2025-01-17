@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second-year undergraduate student from [the School of Science and Engineering] (https://sse.cuhk.edu.cn/), [The Chinese University of Hong Kong, Shenzhen] (https://www.cuhk.edu.cn/en). 
+I'm a second-year undergraduate student from [the School of Science and Engineering](https://sse.cuhk.edu.cn/), [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en). 
 
 You can find my notes for math courses here: 
 [MAT 2060](../assets/MAT2060.pdf),
